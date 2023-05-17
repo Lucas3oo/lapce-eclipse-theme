@@ -4,11 +4,13 @@ Theme plugin for Lapce editor to resemble Eclipse Java syntax colors.
 ## Install
 Install Lapce from https://lapce.dev
 
-Search for the plugin 'Eclipse theme' tab in Lapce. Check out the plugin at https://plugins.lapce.dev/plugins/Lucas3oo/eclipse-theme
+Search for the plugin 'Eclipse theme' tab in Lapce. Afetr install the select the theme called 'Eclipse Light'.
+
+Check out the plugin at https://plugins.lapce.dev/plugins/Lucas3oo/eclipse-theme
 
 ## Sample
 
-![alt](./sample-screenshot.png)
+![alt](./assets/sample-screenshot.png)
 
 Set editor font family to 'Menlo'.
 
