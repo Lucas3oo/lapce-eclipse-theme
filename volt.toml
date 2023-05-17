@@ -1,0 +1,8 @@
+# volt.toml (Lapce plugin definition)
+name = "Eclipse light"
+display-name = "Eclipse light"
+description = "Lapce themes for Eclipse light"
+version = "0.0.1"
+author = "Lucas3oo"
+repository = "https://github.com/Lucas3oo/lapce-eclipse-theme"
+themes = ["eclipse-light.toml"]
