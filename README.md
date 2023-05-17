@@ -17,4 +17,4 @@ cargo install volts
 
 Then in the plugin folder, run
 
-    volts publish
+        volts publish
