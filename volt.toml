@@ -5,4 +5,4 @@ description = "Lapce theme similar to Eclipse light. Theme name: 'Eclipse Light'
 version = "0.0.1"
 author = "Lucas Persson"
 repository = "https://github.com/Lucas3oo/lapce-eclipse-theme"
-themes = ["eclipse-light.toml"]
+color-themes = ["eclipse-light.toml"]
