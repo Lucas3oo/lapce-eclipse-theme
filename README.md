@@ -4,7 +4,7 @@ Theme plugin for Lapce editor to resemble Eclipse Java syntax colors.
 ## Install
 Install Lapce from https://lapce.dev
 
-Search for the plugin 'Eclipse theme' tab in Lapce. Check out the plugin at https://plugins.lapce.dev
+Search for the plugin 'Eclipse theme' tab in Lapce. Check out the plugin at https://plugins.lapce.dev/plugins/Lucas3oo/eclipse-theme
 
 ## Sample
 
