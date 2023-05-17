@@ -10,7 +10,7 @@ Check out the plugin at https://plugins.lapce.dev/plugins/Lucas3oo/eclipse-theme
 
 ## Sample
 
-![alt](./assets/sample-screenshot.png)
+![alt](https://raw.githubusercontent.com/Lucas3oo/lapce-eclipse-theme/main/assets/sample-screenshot.png)
 
 Set editor font family to 'Menlo'.
 
