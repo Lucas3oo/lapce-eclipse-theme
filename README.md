@@ -1,5 +1,5 @@
 # lapce-eclipse-theme
-Theme plugin for Lapce editor.
+Theme plugin for Lapce editor to resemble Eclipse Java syntax colors. 
 
 ## Install
 Install Lapce from https://lapce.dev
